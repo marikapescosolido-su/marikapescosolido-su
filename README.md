@@ -20,31 +20,44 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
 
 ### Languages & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=matlab" width="48" alt="MATLAB" title="MATLAB" />
-  <img src="https://skillicons.dev/icons?i=r" width="48" alt="R" title="R" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL" title="SQL" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
-</p>
-
-**I’m currently learning:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" title="JavaScript" />
-</p>
-
-**AI tools I use to work more efficiently and create meaningful impact:**
-
-<p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude" width="48" alt="Claude" title="Claude" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=chatgpt" width="48" alt="Codex" title="Codex" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=gemini" width="48" alt="Gemini" title="Gemini" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=microsoftcopilot" width="48" alt="Microsoft Copilot" title="Microsoft Copilot" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=githubcopilot" width="48" alt="GitHub Copilot" title="GitHub Copilot" />
-</p>
+<table>
+  <tr>
+    <td width="46%" valign="top">
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" alt="MATLAB" title="MATLAB" />
+        <img src="https://skillicons.dev/icons?i=r" width="48" alt="R" title="R" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL" title="SQL" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
+      </p>
+      <p><strong>I’m currently learning:</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" title="JavaScript" />
+      </p>
+      <p><strong>AI tools I use to work more efficiently and create meaningful impact:</strong></p>
+      <p>
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude" width="48" alt="Claude" title="Claude" />
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=chatgpt" width="48" alt="Codex" title="Codex" />
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=gemini" width="48" alt="Gemini" title="Gemini" />
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=microsoftcopilot" width="48" alt="Microsoft Copilot" title="Microsoft Copilot" />
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=githubcopilot" width="48" alt="GitHub Copilot" title="GitHub Copilot" />
+      </p>
+    </td>
+    <td width="54%" valign="top">
+      <a href="https://github.com/marikapescosolido-su">
+        <img src="https://github-readme-stats.vercel.app/api?username=marikapescosolido-su&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&theme=github_dark&number_format=long&custom_title=GitHub%Activity" width="390" alt="Marika's GitHub activity and yearly commits" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmarikapescosolido-su&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=181717" alt="Current number of public repositories" />
+      <br /><br />
+      <a href="https://github.com/marikapescosolido-su/PINN_Research_BBB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marikapescosolido-su&repo=PINN_Research_BBB&hide_border=true&theme=github_dark" width="390" alt="First pinned repository: PINN Research BBB" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### What You'll Find Here
 
