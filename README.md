@@ -21,7 +21,7 @@ Additionally, I serve as a **Professional Development Leader** for the **John H.
 Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people under 25 through a carefully law-trained AI assistant and a matching program connecting law students, lawyers, and young clients.
 
 ### Languages & Technologies
-
+<img align="right" src="https://cdn.dribbble.com/userupload/29453603/file/original-8172e268306623facb959ba39dbf2311.gif" width="605" alt="Girl coding" />
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=matlab" width="48" alt="MATLAB" title="MATLAB" />
@@ -31,7 +31,6 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/userupload/29453603/file/original-8172e268306623facb959ba39dbf2311.gif" width="405" alt="Girl coding" />
 
 **I’m currently learning:**
 
