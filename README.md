@@ -7,6 +7,7 @@ I’m an **Italian–North Macedonian Physics student** at the **Georgia Institu
 ### Research & Work Experience
 
 I enjoy building projects that bring together **curiosity**, technical **problem-solving**, and the chance to make a **meaningful difference**. I’m especially interested in using data and technology to tackle challenging problems and turn ideas into something useful.
+<img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/woman-scientist-in-laboratory-animation-gif-download-6618418.mp4" width="450" alt="Girl coding" />
 
 Beyond my passion projects, my research interests lie at the intersection of cognition, gravitational-wave science, particle physics, and computational neuroscience. I currently conduct research with:
 
@@ -19,6 +20,7 @@ Beyond my passion projects, my research interests lie at the intersection of cog
 Additionally, I serve as a **Professional Development Leader** for the **John H. Martinson Honors Program** at Georgia Tech, where I help students develop skills and prepare for their academic and professional journeys.
 
 Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people under 25 through a carefully law-trained AI assistant and a matching program connecting law students, lawyers, and young clients.
+<p>
 
 ### Languages & Technologies
 <img align="right" src="https://cdn.dribbble.com/userupload/29453603/file/original-8172e268306623facb959ba39dbf2311.gif" width="450" alt="Girl coding" />
