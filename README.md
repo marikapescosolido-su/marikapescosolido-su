@@ -8,9 +8,11 @@ I’m an **Italian–North Macedonian Physics student** at the **Georgia Institu
 
 My interests lie at the intersection of **physics, cognition, gravitational-wave science, and computational neuroscience**. I currently conduct research with:
 
-- **MaTRIX Laboratory**, led by Dr. Sederberg — exploring the physics of cognition
-- **LIGO Laboratory**, led by Dr. Cadonati — contributing to gravitational-wave research
-- **Epilepsy Department at Bambino Gesù Children’s Hospital** in Rome — supporting epilepsy research
+- **MaTRIX Laboratory**, led by Dr. Sederberg: Exploring the physics of cognition;
+- **LIGO Laboratory**, led by Dr. Cadonati: Contributing to gravitational-wave research;
+- **Epilepsy Department at Bambino Gesù Children’s Hospital** in Rome: Supporting epilepsy research.
+
+> **Note:** Some of my laboratory work is hosted exclusively on my Georgia Tech GitHub account and is not publicly available here.
 
 Additionally, I serve as a **Professional Development Leader** for the **John H. Martinson Honors Program** at Georgia Tech, where I help students develop skills and prepare for their academic and professional journeys.
 
@@ -51,8 +53,6 @@ This profile features a selection of my:
 - Research projects and papers
 - Scientific and computational work
 - Personal projects and collaborations
-
-> **Note:** Some of my laboratory work is hosted exclusively on my Georgia Tech GitHub account and is not publicly available here.
 
 **Let's Connect:** I’m always happy to discuss research, exchange ideas, and explore new collaborations. Please feel free to reach out!
 
