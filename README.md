@@ -6,7 +6,9 @@ I’m an **Italian–North Macedonian Physics student** at the **Georgia Institu
 
 ### Research & Work Experience
 
-My interests lie at the intersection of **physics, cognition, gravitational-wave science, and computational neuroscience**. I currently conduct research with:
+I enjoy building projects that bring together curiosity, technical problem-solving, and the chance to make a meaningful difference. I’m especially interested in using data and technology to tackle challenging problems and turn ideas into something useful.
+
+Beyond my passion projects, my research interests lie at the intersection of physics, cognition, gravitational-wave science, and computational neuroscience. I currently conduct research with:
 
 - **MaTRIX Laboratory**, led by Dr. Sederberg: Exploring the physics of cognition;
 - **LIGO Laboratory**, led by Dr. Cadonati: Contributing to gravitational-wave research;
@@ -24,7 +26,7 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=matlab" width="48" alt="MATLAB" title="MATLAB" />
   <img src="https://skillicons.dev/icons?i=r" width="48" alt="R" title="R" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL" title="SQL" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="48" alt="SQL" title="SQL" />
   <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </p>
