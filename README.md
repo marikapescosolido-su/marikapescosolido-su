@@ -7,7 +7,7 @@ I’m an **Italian–North Macedonian Physics student** at the **Georgia Institu
 ### Research & Work Experience
 
 I enjoy building projects that bring together **curiosity**, technical **problem-solving**, and the chance to make a **meaningful difference**. I’m especially interested in using data and technology to tackle challenging problems and turn ideas into something useful.
-<img align="right" src="https://i.pinimg.com/originals/7f/82/75/7f827583a15c685dd138621c7ffededd.gif" width="200" alt="Atom" />
+<img align="right" src="https://media.lordicon.com/icons/wired/lineal/113-atom.gif" width="200" alt="Atom" />
 
 Beyond my passion projects, my research interests lie at the intersection of cognition, gravitational-wave science, particle physics, and computational neuroscience. I currently conduct research with:
 
