@@ -31,7 +31,7 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </p>
 
-<img align="right" src="https://camo.githubusercontent.com/608a4398eeae4a36a3249bd444130421d75c84cf0bca6fcc989b66c00419f65e/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966" width="305" alt="Girl coding" />
+<img align="right" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="305" alt="Girl coding" />
 
 **I’m currently learning:**
 
