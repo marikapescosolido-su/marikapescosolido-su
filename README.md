@@ -31,7 +31,8 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </p>
 
-<img align="right" src="https://assets-v2.lottiefiles.com/a/4069357e-1165-11ee-bedb-ef2d9fa95a54/xeIuvySzZl.gif" width="105" alt="Three yellow stars" />
+<img align="right" src="https://assets-v2.lottiefiles.com/a/4069357e-1165-11ee-bedb-ef2d9fa95a54/xeIuvySzZl.gif" width="105" alt="Rocket" />
+
 **I’m currently learning:**
 
 <p>
