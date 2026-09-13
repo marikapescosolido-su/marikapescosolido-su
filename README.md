@@ -27,7 +27,7 @@ Outside of academics, I founded the nonprofit **Law-Tie**, which empowers people
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </p>
 
-I’m currently learning:
+**I’m currently learning:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++" />
@@ -54,9 +54,7 @@ This profile features a selection of my:
 
 > **Note:** Some of my laboratory work is hosted exclusively on my Georgia Tech GitHub account and is not publicly available here.
 
-### 🤝 Let's Connect
-
-I’m always happy to discuss research, exchange ideas, and explore new collaborations. Please feel free to reach out!
+**Let's Connect:** I’m always happy to discuss research, exchange ideas, and explore new collaborations. Please feel free to reach out!
 
 You can speak with me in:
 
