@@ -1,4 +1,6 @@
-# Ciao, I'm Marika Pescosolido!
+<img align="right" src="assets/stars.png" width="105" alt="Three yellow stars" />
+
+### Ciao, I'm Marika Pescosolido! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="34" alt="Waving hand" />
 
 I’m an **Italian–North Macedonian Physics student** at the **Georgia Institute of Technology** in Atlanta, Georgia.
 
@@ -10,7 +12,9 @@ My interests lie at the intersection of **physics, cognition, gravitational-wave
 - **LIGO Laboratory**, led by Dr. Cadonati — contributing to gravitational-wave research
 - **Epilepsy Department at Bambino Gesù Children’s Hospital** in Rome — supporting epilepsy research
 
-Also, I serve as a **Professional Development Leader** for the **John H. Martinson Honors Program** at Georgia Tech, where I help students develop skills and prepare for their academic and professional journeys.
+Additionally, I serve as a **Professional Development Leader** for the **John H. Martinson Honors Program** at Georgia Tech, where I help students develop skills and prepare for their academic and professional journeys. 
+
+Outside of academics, I have founded the non-profit **Law-Tie**, empowering youth under 25 by creating a carefully law-trained AI assistant and providing a law student-laywer-young client matching program!
 
 ## Languages & Technologies
 
@@ -33,11 +37,11 @@ I’m currently learning:
 **AI Tools I use to work more efficiently and create meaningful impact:**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Microsoft Copilot" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=claude" width="48" alt="Claude" title="Claude" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=chatgpt" width="48" alt="Codex" title="Codex" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=gemini" width="48" alt="Gemini" title="Gemini" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=microsoftcopilot" width="48" alt="Microsoft Copilot" title="Microsoft Copilot" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=githubcopilot" width="48" alt="GitHub Copilot" title="GitHub Copilot" />
 </p>
 
 ## What You'll Find Here
@@ -60,12 +64,12 @@ You can reach me at **marikapescosolido@gmail.com**.
 
 <p>
   <a href="https://www.marikapescosolido.com">
-    <img src="https://img.shields.io/badge/Website-Visit-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=portfolio" width="48" alt="Personal website" title="Personal website" />
   </a>
-  <a href="https://www.linkedin.com/in/marika-pescosolido">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.com/in.com/in/marika-pescosolido">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin" width="48" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:marikapescosolido@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marika" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=gmail" width="48" alt="Email Marika" title="Email Marika" />
   </a>
 </p>
