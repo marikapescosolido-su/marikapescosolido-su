@@ -6,9 +6,9 @@ I’m an **Italian–North Macedonian Physics student** at the **Georgia Institu
 
 ### Research & Work Experience
 
-I enjoy building projects that bring together curiosity, technical problem-solving, and the chance to make a meaningful difference. I’m especially interested in using data and technology to tackle challenging problems and turn ideas into something useful.
+I enjoy building projects that bring together **curiosity**, technical **problem-solving**, and the chance to make a **meaningful difference**. I’m especially interested in using data and technology to tackle challenging problems and turn ideas into something useful.
 
-Beyond my passion projects, my research interests lie at the intersection of physics, cognition, gravitational-wave science, and computational neuroscience. I currently conduct research with:
+Beyond my passion projects, my research interests lie at the intersection of cognition, gravitational-wave science, particle physics, and computational neuroscience. I currently conduct research with:
 
 - **MaTRIX Laboratory**, led by Dr. Sederberg: Exploring the physics of cognition;
 - **LIGO Laboratory**, led by Dr. Cadonati: Contributing to gravitational-wave research;
