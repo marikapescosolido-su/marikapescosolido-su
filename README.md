@@ -54,7 +54,7 @@ This profile features a selection of my:
 
 > **Note:** Some of my laboratory work is hosted exclusively on my Georgia Tech GitHub account and is not publicly available here.
 
-**Let's connect:**I’m always happy to discuss research, exchange ideas, and explore new collaborations. Please feel free to reach out!
+**Let's connect:** I’m always happy to discuss research, exchange ideas, and explore new collaborations. Please feel free to reach out!
 
 You can speak with me in:
 
