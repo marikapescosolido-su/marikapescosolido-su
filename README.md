@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/48/8f/a0/488fa0aa3fe439b3cced4e3f67b30c94.gif" width="105" alt="Three yellow stars" />
 
-### Ciao, I'm Marika Pescosolido! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="34" alt="Waving hand" />
+# Ciao, ###I'm Marika Pescosolido! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fc.gif" width="34" alt="Waving hand" />
 
 I’m an **Italian–North Macedonian Physics student** at the **Georgia Institute of Technology** in Atlanta, Georgia.
 
